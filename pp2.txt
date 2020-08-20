@@ -1,4 +1,2 @@
 hiiii 
 hello
-hiiii
-hello
